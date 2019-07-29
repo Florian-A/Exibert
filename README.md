@@ -1,6 +1,6 @@
 # Exibert
 
-[](./exibert_icon.jpg)
+![](./exibert_icon.jpg)
 
 Exibert permet de prendre régulièrement plusieurs photos de la webcam d'un ordinateur préalablement piégé et d'envoyer ces dernières sur un serveur web.
 
